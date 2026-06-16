@@ -7,15 +7,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-CC2927?logo=microsoft-sql-server)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-Analytics-0078D4?logo=microsoft-azure)
 [![DOI](https://zenodo.org/badge/1035697063.svg)](https://doi.org/10.5281/zenodo.20709853)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Compilation status](https://github.com/DavideFerigato/BachelorThesis/actions/workflows/compile.yml/badge.svg)](https://github.com/DavideFerigato/BachelorThesis/actions/workflows/compile.yml)
-![GitHub last commit](https://img.shields.io/github/last-commit/DavideFerigato/BachelorThesis)
-[![DOI](https://zenodo.org/badge/1035697063.svg)](https://doi.org/10.5281/zenodo.20709853)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/DavideFerigato/BachelorThesis)
-![LaTeX](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-CC2927?logo=microsoft-sql-server)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-Analytics-0078D4?logo=microsoft-azure)
 
 
 **Author**: Davide Maria Ferigato  
