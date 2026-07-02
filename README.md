@@ -141,4 +141,4 @@ The thesis text is copyright © 2025 Davide Maria Ferigato. All rights reserved.
 
 **Davide Maria Ferigato**
 
-- **GitHub:** [@DavideFerigato](https://github.com/DavideFerigato)
+- **GitHub:** [@davideferigato](https://github.com/davideferigato)
